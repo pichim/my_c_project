@@ -58,13 +58,9 @@ Install these from the **VS Code Marketplace**:
 From the terminal or using the VS Code build task:
 
 ```bash
-make
-```
-
-To clean the build:
-
-```bash
-make clean
+make        # Build the project
+make run    # Build and run the program
+make clean  # Clean build artifacts
 ```
 
 ---
